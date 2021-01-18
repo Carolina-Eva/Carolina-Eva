@@ -1,5 +1,4 @@
-### Hi there! 👋 I´m Carolina :argentina: 
-[![Linkedin: carolina-gonzalez](https://img.shields.io/badge/-carolina-gonzalez-4331112a-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolina-gonzalez-4331112a/)](https://www.linkedin.com/in/carolina-gonzalez-4331112a/)
+### Hi there! 👋 I´m Carolina
 
 <!--
 **bastetsama/bastetsama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,6 +34,14 @@ const aboutMe = {
 };
 ```
 
-📫 How to reach me: cga39@yahoo.com.ar
-[Instagram](https://www.instagram.com/carolina_eva_gonzalez/)
+:earth_americas: How to reach me:
+- [Email](mailto:cga39@yahoo.com.ar)
+- [Instagram](https://www.instagram.com/carolina_eva_gonzalez/)
+- [Linkedin](https://www.linkedin.com/in/carolina-gonzalez-4331112a)
+
+</br></br>
+<h2>💻 Stats 💻</h2>
+
+![Carolina's github stats](https://github-readme-stats.vercel.app/api?username=bastetsama&show_icons=true&title_color=fff&icon_color=b4004e&text_color=fff&bg_color=ff94c2)
+
 
