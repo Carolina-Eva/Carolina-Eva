@@ -1,4 +1,4 @@
-### Hi there! I´m Carolina 👋
+### Hi there! 👋 I´m Carolina :argentina: 
 
 <!--
 **bastetsama/bastetsama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,6 +32,8 @@ const aboutMe = {
    },
    currentOccupation: ["FrontEnd Developer"]
 };
+```
 
 📫 How to reach me: cga39@yahoo.com.ar
+[Instagram]{https://www.instagram.com/carolina_eva_gonzalez/}
 
