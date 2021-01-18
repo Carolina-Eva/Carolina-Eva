@@ -21,7 +21,7 @@ const aboutMe = {
    code: ["Javascript", "Jquery", "HTML", "CSS", "CSharp"],
    technologies: {
       frontEnd: {
-         js: ["VueJs"],
+         js: ["VueJs", "Angular"],
          css: ["Materialize", "Bootstrap", "Material Design"]
       },
       backEnd: {
