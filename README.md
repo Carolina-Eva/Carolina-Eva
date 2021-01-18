@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```js
+const aboutMe = {
+   pronouns: "she" | "her",
+   code: ["Javascript", "Jquery", "HTML", "CSS", "CSharp"],
+   technologies: {
+      frontEnd: {
+         js: ["VueJs"],
+         css: ["Materialize", "Bootstrap", "Material Design"]
+      },
+      backEnd: {
+         csharp: ["Asp.net MVC"],
+      },
+      databases: ["SQLServer"],
+      tools: ["Git", "Photoshop", "Illustrator"]
+   },
+   currentOccupation: ["FrontEnd Developer"]
+};
+
