@@ -34,13 +34,13 @@ const aboutMe = {
 };
 ```
 
-:earth_americas: ## How to reach me:
+ ## How to reach me :earth_americas: :
 - [Email](mailto:cga39@yahoo.com.ar)
 - [Instagram](https://www.instagram.com/carolina_eva_gonzalez/)
 - [Linkedin](https://www.linkedin.com/in/carolina-gonzalez-4331112a)
 
 
-💻 ## Stats 💻
+### Stats 💻
 
 ![Carolina's github stats](https://github-readme-stats.vercel.app/api?username=bastetsama&show_icons=true&title_color=fff&icon_color=b4004e&text_color=fff&bg_color=ff94c2)
 
