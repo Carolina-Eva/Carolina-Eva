@@ -17,18 +17,19 @@ Here are some ideas to get you started:
 
 ```js
 const aboutMe = {
-   pronouns: "she" | "her",
-   code: ["Javascript", "Jquery", "HTML", "CSS", "CSharp"],
+   name: "Carolina",
+   code: ["Typescript","Javascript", "Jquery", "HTML", "CSS", "CSharp"],
    technologies: {
       frontEnd: {
-         js: ["VueJs", "Angular"],
-         css: ["Materialize", "Bootstrap", "Material Design"]
+         js: ["Angular", "vue.js"],
+         css: ["Materialize", "Bootstrap", "Material Design"],
+         other: ["Razor"]
       },
       backEnd: {
-         csharp: ["Asp.net MVC"],
+         csharp: [".NetCore"],
       },
       databases: ["SQLServer"],
-      tools: ["Git", "Photoshop", "Illustrator"]
+      tools: ["Git", "figma","Photoshop", "Illustrator"]
    },
    currentOccupation: ["FrontEnd Developer"]
 };
