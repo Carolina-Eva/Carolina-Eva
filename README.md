@@ -17,13 +17,12 @@ Here are some ideas to get you started:
 
 ```js
 const aboutMe = {
-   name: "Carolina",
-   code: ["Typescript","Javascript", "Jquery", "HTML", "CSS", "CSharp"],
+   names: ["Carolina", "Carol", "Caro"],
+   code: ["Typescript","Javascript", "Jquery", "HTML", "SCSS", "CSharp", "Razor", "SQL"],
    technologies: {
       frontEnd: {
          js: ["Angular", "vue.js"],
-         css: ["Materialize", "Bootstrap", "Material Design"],
-         other: ["Razor"]
+         css: ["Angular Material", "Bootstrap"]
       },
       backEnd: {
          csharp: [".NetCore"],
