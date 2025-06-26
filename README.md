@@ -40,8 +40,4 @@ const aboutMe = {
 - [Linkedin](https://www.linkedin.com/in/carolina-gonzalez-4331112a)
 
 
-### Stats 💻
-
-![Carolina's github stats](https://github-readme-stats.vercel.app/api?username=Carolina-Eva&show_icons=true&title_color=fff&icon_color=b4004e&text_color=fff&bg_color=ff94c2)
-
 
